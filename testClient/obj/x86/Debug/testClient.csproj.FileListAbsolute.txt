@@ -1,0 +1,4 @@
+C:\个人数据\project\ZZNeframe\testClient\obj\x86\Debug\testClient.csprojResolveAssemblyReference.cache
+C:\个人数据\project\ZZNeframe\testClient\obj\x86\Debug\testClient.Form1.resources
+C:\个人数据\project\ZZNeframe\testClient\obj\x86\Debug\testClient.Properties.Resources.resources
+C:\个人数据\project\ZZNeframe\testClient\obj\x86\Debug\testClient.csproj.GenerateResource.Cache

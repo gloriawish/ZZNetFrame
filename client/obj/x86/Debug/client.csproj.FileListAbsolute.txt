@@ -1,0 +1,7 @@
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\client\bin\Debug\client.exe
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\client\bin\Debug\client.pdb
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\client\bin\Debug\Netframe.dll
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\client\bin\Debug\Netframe.pdb
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\client\obj\x86\Debug\client.exe
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\client\obj\x86\Debug\client.pdb

@@ -1,0 +1,11 @@
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\bin\Debug\A.exe
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\bin\Debug\A.pdb
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\bin\Debug\Netframe.dll
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\bin\Debug\Netframe.pdb
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\obj\x86\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\obj\x86\Debug\A.Form1.resources
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\obj\x86\Debug\A.Properties.Resources.resources
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\obj\x86\Debug\A.csproj.GenerateResource.Cache
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\obj\x86\Debug\A.exe
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\obj\x86\Debug\A.pdb
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\A\bin\Debug\A.exe.config

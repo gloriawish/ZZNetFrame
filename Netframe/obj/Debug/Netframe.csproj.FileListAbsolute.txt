@@ -1,0 +1,11 @@
+C:\个人数据\project\ZZNeframe\Netframe\bin\Debug\Netframe.dll
+C:\个人数据\project\ZZNeframe\Netframe\bin\Debug\Netframe.pdb
+C:\个人数据\project\ZZNeframe\Netframe\obj\Debug\Netframe.dll
+C:\个人数据\project\ZZNeframe\Netframe\obj\Debug\Netframe.pdb
+C:\个人数据\project\ZZNeframe\Netframe\obj\Debug\Netframe.csprojResolveAssemblyReference.cache
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\Netframe\bin\Debug\Netframe.dll
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\Netframe\bin\Debug\Netframe.pdb
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\Netframe\obj\Debug\Netframe.dll
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\Netframe\obj\Debug\Netframe.pdb
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\Netframe\bin\Debug\Netframe.dll.config
+C:\Users\sei.zz\Desktop\temp\ZZNeframe\Netframe\obj\Debug\Netframe.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\个人数据\project\ZZNeframe\testService\obj\x86\Debug\testService.csprojResolveAssemblyReference.cache
+C:\个人数据\project\ZZNeframe\testService\obj\x86\Debug\testService.Form1.resources
+C:\个人数据\project\ZZNeframe\testService\obj\x86\Debug\testService.Properties.Resources.resources
+C:\个人数据\project\ZZNeframe\testService\obj\x86\Debug\testService.csproj.GenerateResource.Cache
+C:\个人数据\project\ZZNeframe\testService\bin\Debug\testService.exe
+C:\个人数据\project\ZZNeframe\testService\bin\Debug\testService.pdb
+C:\个人数据\project\ZZNeframe\testService\bin\Debug\Netframe.dll
+C:\个人数据\project\ZZNeframe\testService\bin\Debug\Netframe.pdb
+C:\个人数据\project\ZZNeframe\testService\obj\x86\Debug\testService.exe
+C:\个人数据\project\ZZNeframe\testService\obj\x86\Debug\testService.pdb
